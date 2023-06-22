@@ -1,6 +1,6 @@
 # customer_shopping_behavior_analysis
-
-1. This project used a dataset that published at Kaggle. https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset 
+## Summary
+-- This project used a dataset that published at Kaggle. https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset 
 
 2. The given dataset is all about customer purchase transaction records, including visitorid, itemid, timestamps of view, add to cart, transaction.
 
