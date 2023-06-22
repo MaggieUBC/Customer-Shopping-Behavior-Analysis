@@ -1,8 +1,7 @@
 # customer_shopping_behavior_analysis
 ## Summary
--- This project used a dataset that published at Kaggle. https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset 
-
-2. The given dataset is all about customer purchase transaction records, including visitorid, itemid, timestamps of view, add to cart, transaction.
+- This project used a dataset that published at Kaggle. https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset 
+- The given dataset is all about customer purchase transaction records, including visitorid, itemid, timestamps of view, add to cart, transaction.
 
 3. Based on this dataset, I built a regression model to predict the purchase possibility of the online shopping customers and a recommendation model using both collaborative filtering and content based filtering method. 
 
