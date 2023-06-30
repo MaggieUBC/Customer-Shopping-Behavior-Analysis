@@ -1,4 +1,4 @@
-# Customer-shopping-behavior-analysis
+# Customer-shopping-behavior-regression-model
 ## Summary
 - This project used a dataset that published at Kaggle. https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset 
 - The given dataset is all about customer purchase transaction records, including visitorid, itemid, timestamps of view, add to cart, transaction.
